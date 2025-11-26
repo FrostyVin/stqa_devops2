@@ -1,0 +1,14 @@
+# Dependencies that might cause breakage
+Werkzeug==2.1.2
+SQLAlchemy==1.4.46
+
+# Dependencies for all
+Flask==2.1.2
+requests==2.32.4
+
+# TDD dependencies
+pytest==8.4.1
+pytest-cov==6.2.1
+
+# Linting
+flake8==7.3.0
